@@ -18,7 +18,7 @@ The numbers will be output as back to back binary stream.
 
 Tested against
 
- * Infinite Noise TRNG 
+ * Infinite Noise TRNG  (https://www.crowdsupply.com/13-37/infinite-noise-trng), https://www.tindie.com/products/manueldomke/infinite-noise-trng-true-random-number-generator/
  * nCipher HSM
  * TrueRNG V3 - USB Hardware Random Number Generator
  * https://onerng.info/
